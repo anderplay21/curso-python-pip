@@ -1,0 +1,1 @@
+#Aqui dejamos todas las instruciones y que se deben tener en cuenta para trabajar en este proyecto.
